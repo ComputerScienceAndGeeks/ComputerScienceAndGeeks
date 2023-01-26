@@ -9,11 +9,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshvajpayee&label=Profile%20views&color=0e75b6&style=flat" alt="progressivetrendy" /> </p>
 <hr>
 <div align="center">
-### I’m currently working on **Python**<br>
-### I’m currently learning **Python**<br>
-### I’m looking to collaborate on **C,Tailwind Css Framework**<br>
-### Ask me about **C,HTML,CSS,Java**<br>
-### How to reach me **progressivetrendy@gmail.com**<br>
+I’m currently working on <i>Python</i><br>
+I’m currently learning <i>Python</i><br>
+I’m looking to collaborate on <i>C,Tailwind Css Framework</i><br>
+Ask me about <i>C,HTML,CSS,Java</i><br>
+How to reach me <i>progressivetrendy@gmail.com</i><br>
 </div>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
