@@ -1,7 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-<!--
 **ProgressiveTrendy/ProgressiveTrendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
