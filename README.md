@@ -13,7 +13,7 @@ I’m currently working on <i>Python</i><br>
 I’m currently learning <i>Python</i><br>
 I’m looking to collaborate on <i>C,Tailwind Css Framework</i><br>
 Ask me about <i>C,HTML,CSS,Java</i><br>
-How to reach me <i>progressivetrendy@gmail.com</i><br>
+How to reach me <i>computerscienceandgeeks@gmail.com</i><br>
 </div>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
